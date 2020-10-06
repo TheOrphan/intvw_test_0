@@ -1,0 +1,19 @@
+{
+  "files": {
+    "app.js": "/intvw_test_0/static/js/app.5deff8bc.chunk.js",
+    "app.js.map": "/intvw_test_0/static/js/app.5deff8bc.chunk.js.map",
+    "runtime~app.js": "/intvw_test_0/static/js/runtime~app.6a266eb2.js",
+    "runtime~app.js.map": "/intvw_test_0/static/js/runtime~app.6a266eb2.js.map",
+    "static/js/2.e7990376.chunk.js": "/intvw_test_0/static/js/2.e7990376.chunk.js",
+    "static/js/2.e7990376.chunk.js.map": "/intvw_test_0/static/js/2.e7990376.chunk.js.map",
+    "index.html": "/intvw_test_0/index.html",
+    "manifest.json": "/intvw_test_0/manifest.json",
+    "serve.json": "/intvw_test_0/serve.json",
+    "static/js/2.e7990376.chunk.js.LICENSE.txt": "/intvw_test_0/static/js/2.e7990376.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.6a266eb2.js",
+    "static/js/2.e7990376.chunk.js",
+    "static/js/app.5deff8bc.chunk.js"
+  ]
+}
